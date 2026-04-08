@@ -1,0 +1,3 @@
+﻿"Site ID","Site Name",Province,Municipality,ISP,"Project Name",Status,Latitude,Longitude,Address,"Contact Person","Contact Number","Created At","Updated At"
+1,"Main Office","Province 1","Capital City","ISP Corp","Corporate Network",ACTIVE,14.5995,120.9842,"123 Main St","Manager One",+63-912-345-6789,"2024-01-01 09:00:00","2024-01-02 10:00:00"
+2,"Branch Office","Province 2","City Center",NetProvider,"Branch Expansion",ACTIVE,14.6095,120.9942,"456 Branch Ave","Manager Two",+63-923-456-7890,"2024-01-01 10:00:00","2024-01-02 11:00:00"

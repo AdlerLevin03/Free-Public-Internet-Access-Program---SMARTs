@@ -1,0 +1,3 @@
+﻿"Personnel ID","Full Name",Email,Role,Department,"Contact Number",Status,"Created At","Last Login"
+1,"John Doe",john.doe@company.com,Technician,"IT Support",+63-912-345-6789,ACTIVE,"2024-01-01 08:00:00","2024-01-03 09:00:00"
+2,"Jane Smith",jane.smith@company.com,Supervisor,Operations,+63-923-456-7890,ACTIVE,"2024-01-01 08:30:00","2024-01-03 08:30:00"
